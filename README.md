@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joey
 - 👀 I’m interested in learning solidity to build out an idea I have for a app or Dapp 
-- 🌱 I’m currently learning Solidity. I have no code experiance..
-- 💞️ I’m looking to collaborate on my Dapp, clubDope.io 
+- 🌱 Graphic designer and artist learnig dev, solidity & other backend tools tobuild.
+- 💞️ I’m looking to collaborate on my Dapp idea I'm building.
 - 📫 How to reach me: 'X' twitter, IG or the contact form on my site.
 
 <!---
